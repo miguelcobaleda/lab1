@@ -1,0 +1,5 @@
+name: eda_env
+channels:
+  - defaults
+prefix: C:\Users\Cobaleda\anaconda3\envs\eda_env
+
